@@ -24,7 +24,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">1</td>
 			<td>Alfabeto</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Intermedi%C3%A1rios%20Py%20-%20Unimed-BH/alfabeto.py">
+				<a href="https://github.com/Guih1993/Bootcamp-Ciencia-de-Dados/blob/main/Desafios%20Intermedi%C3%A1rios%20Py/alfabeto.py">
 					Código
 				</a>
 			</td>
@@ -34,7 +34,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">2</td>
 			<td>Papagaio Poliglota</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Intermedi%C3%A1rios%20Py%20-%20Unimed-BH/papagaioPoliglota.py">
+				<a href="https://github.com/Guih1993/Bootcamp-Ciencia-de-Dados/blob/main/Desafios%20Intermedi%C3%A1rios%20Py/papagaioPoliglota.py">
 					Código
 				</a>
 			</td>
@@ -44,7 +44,7 @@ Abaixo estão os links para os desafios:
 			<td align="center">3</td>
 			<td>Aumento Salarial</td>
 			<td>
-				<a href="https://github.com/ANACAPELETTI/DIO/blob/main/Bootcamp%20Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/Desafios%20Intermedi%C3%A1rios%20Py%20-%20Unimed-BH/aumentoSalarial.py">
+				<a href="https://github.com/Guih1993/Bootcamp-Ciencia-de-Dados/blob/main/Desafios%20Intermedi%C3%A1rios%20Py/aumento_salarial2.py">
 					Código
 				</a>
 			</td>
