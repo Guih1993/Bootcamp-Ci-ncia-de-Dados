@@ -1,6 +1,6 @@
 
-# Bootcamp Linux Experience
-## Repositorio de projetos criados no Bootcamp de Linux ministrado pela Digital Innovation One
+# Bootcamp Ciência de Dados
+## Repositorio de projetos criados no Bootcamp de Ciência de Dados ministrado pela Digital Innovation One
 
 ### Resumo do curso
 No curso de Ciência de Dados ofertado pela DIO foram abordados temas relacionados as principais ferramentas do mercado disponiveis para ciencia de dados.
